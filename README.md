@@ -1,2 +1,4 @@
-# Repositorio_Estudos
- Repositório para Estudar
+# Repositorio/Estudos
+ Repositório para ajudar nos estudos
+
+ Testes em funcionamento!
